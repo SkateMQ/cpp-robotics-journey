@@ -1,0 +1,5 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "C_Cpp.default.cppStandard": "c++17"
+}
