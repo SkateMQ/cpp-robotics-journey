@@ -1,5 +1,5 @@
 # 编译生成的可执行文件
-weel*/**/*
+week*/**/*
 !week*/**/*.cpp
 !week*/**/*.h
 !week*/**/*.hpp
