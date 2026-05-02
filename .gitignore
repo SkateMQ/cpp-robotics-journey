@@ -1,13 +1,3 @@
-# 编译生成的可执行文件
-week*/**/*
-!week*/**/*.cpp
-!week*/**/*.h
-!week*/**/*.hpp
-!week*/**/*.txt
-!week*/**/*.md
-!week*/**/*.json
-!week*/**/*.cmake
-
 # CMake构建产物
 build/
 cmake-build-*/
