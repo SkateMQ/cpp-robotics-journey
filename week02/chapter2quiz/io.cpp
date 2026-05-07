@@ -1,5 +1,5 @@
-#include "io.h"
-#include <iostream>
+#include "io.h" // source files should include their pair headers
+#include <iostream> // pair header first, standard library last
 
 int readNumber()
 {
